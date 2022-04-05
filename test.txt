@@ -2,7 +2,7 @@ Test test
 Test test
 Test test
 Test test
-Test TEst
+Neu hinzugefügt
 
 1. git commit -m "(Commit)" Dateiname
 2. git push -u origin master
