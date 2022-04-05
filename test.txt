@@ -3,6 +3,5 @@ Test test
 Test test
 Test test
 
-git commit -m "(Commit)" Dateiname
-
-git push -u origin master
+1. git commit -m "(Commit)" Dateiname
+2. git push -u origin master
