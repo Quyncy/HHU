@@ -1,1 +1,8 @@
 Test test
+Test test
+Test test
+Test test
+
+git commit -m "(Commit)" Dateiname
+
+git push -u origin master
